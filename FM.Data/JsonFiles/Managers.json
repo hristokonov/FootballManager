@@ -1,0 +1,47 @@
+[
+  {
+    "Id": "1",
+    "FirstName": "Hristo",
+    "LastName": "Konov",
+    "Nationality": "Bulgarian",
+    "TeamId": 1
+  },
+  {
+    "Id": "2",
+    "FirstName": "Petar",
+    "LastName": "Botev",
+    "Nationality": "Bulgarian",
+    "TeamId": 2
+  },
+  {
+    "Id": "3",
+    "FirstName": "Dimitar",
+    "LastName": "Georgiev",
+    "Nationality": "Bulgarian",
+    "TeamId": 3
+  },
+  {
+    "Id": "4",
+    "FirstName": "Nasko",
+    "LastName": "Sirakov",
+    "Nationality": "Bulgarian",
+    "TeamId": 4
+  },
+  {
+    "Id": "5",
+    "FirstName": "Hristo",
+    "LastName": "Stoichkov",
+    "Nationality": "Bulgarian",
+    "TeamId": 5
+  },
+  {
+    "Id": "6",
+    "FirstName": "Dimitar",
+    "LastName": "Dimitrov",
+    "Nationality": "Bulgarian",
+    "TeamId": 6
+  }
+]
+
+
+

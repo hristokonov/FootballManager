@@ -1,0 +1,80 @@
+[
+  {
+    "Id": "1",
+    "Name": "Cunami",
+    "City": "Sofia",
+    "Country": "Bulgaria",
+    "Owner": "Hristo Konov",
+    "Budget": "5000000",
+    "GoalDifference": "0",
+    "GoalsConcede": "0",
+    "GoalsScored": "0",
+    "Points": "0",
+    "LeagueId": 1
+  },
+  {
+    "Id": "2",
+    "Name": "Athletic SMU",
+    "City": "Stara Zagora",
+    "Country": "Bulgaria",
+    "Owner": "Petar Botev",
+    "Budget": "5000000",
+    "GoalDifference": "0",
+    "GoalsConcede": "0",
+    "GoalsScored": "0",
+    "Points": "0",
+    "LeagueId": 1
+  },
+  {
+    "Id": "3",
+    "Name": "Pirin",
+    "City": "Blagoevgrad",
+    "Country": "Bulgaria",
+    "Owner": "Dimitar Georgiev",
+    "Budget": "5000000",
+    "GoalDifference": "0",
+    "GoalsConcede": "0",
+    "GoalsScored": "0",
+    "Points": "0",
+    "LeagueId": 1
+  },
+  {
+    "Id": "4",
+    "Name": "Levski",
+    "City": "Sofia",
+    "Country": "Bulgaria",
+    "Owner": "Nasko Sirakov",
+    "Budget": "5000000",
+    "GoalDifference": "0",
+    "GoalsConcede": "0",
+    "GoalsScored": "0",
+    "Points": "0",
+    "LeagueId": 1
+  },
+  {
+    "Id": "5",
+    "Name": "CSKA",
+    "City": "Sofia",
+    "Country": "Bulgaria",
+    "Owner": "Hristo Stoichkov",
+    "Budget": "5000000",
+    "GoalDifference": "0",
+    "GoalsConcede": "0",
+    "GoalsScored": "0",
+    "Points": "0",
+    "LeagueId": 1
+  },
+  {
+    "Id": "6",
+    "Name": "Ludogorez",
+    "City": "Razgrad",
+    "Country": "Bulgaria",
+    "Owner": "Kiril Domuschiev",
+    "Budget": "5000000",
+    "GoalDifference": "0",
+    "GoalsConcede": "0",
+    "GoalsScored": "0",
+    "Points": "0",
+    "LeagueId": 1
+  }
+]

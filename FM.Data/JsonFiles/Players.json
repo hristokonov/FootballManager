@@ -1,0 +1,393 @@
+[
+  //Cunami
+  {
+    "Id": "1",
+    "FirstName": "Dimitar",
+    "LastName": "Georgiev",
+    "Nationality": "Bulgarian",
+    "Rating": "90",
+    "Price": "900000",
+    "TeamId": 1,
+    "PositionId": 1
+  },
+  {
+    "Id": "2",
+    "FirstName": "Hristo",
+    "LastName": "Konov",
+    "Nationality": "Bulgarian",
+    "Rating": "100",
+    "Price": "1000000",
+    "TeamId": 1,
+    "PositionId": 2
+  },
+  {
+    "Id": "3",
+    "FirstName": "Todor",
+    "LastName": "Todorov",
+    "Nationality": "Bulgarian",
+    "Rating": "80",
+    "Price": "800000",
+    "TeamId": 1,
+    "PositionId": 2
+  },
+  {
+    "Id": "4",
+    "FirstName": "Yordan",
+    "LastName": "Konov",
+    "Nationality": "Bulgarian",
+    "Rating": "100",
+    "Price": "1000000",
+    "TeamId": 1,
+    "PositionId": 3
+  },
+  {
+    "Id": "5",
+    "FirstName": "Cvetan",
+    "LastName": "Konov",
+    "Nationality": "Bulgarian",
+    "Rating": "90",
+    "Price": "900000",
+    "TeamId": 1,
+    "PositionId": 3
+  },
+  {
+    "Id": "6",
+    "FirstName": "Borislav",
+    "LastName": "Stoimenov",
+    "Nationality": "Bulgarian",
+    "Rating": "100",
+    "Price": "1000000",
+    "TeamId": 1,
+    "PositionId": 4
+  },
+  // atletic smu
+  {
+    "Id": "7",
+    "FirstName": "Petar",
+    "LastName": "Botev",
+    "Nationality": "Bulgarian",
+    "Rating": "100",
+    "Price": "1000000",
+    "TeamId": 2,
+    "PositionId": 4
+  },
+  {
+    "Id": "8",
+    "FirstName": "Stefan",
+    "LastName": "Georgiev",
+    "Nationality": "Bulgarian",
+    "Rating": "90",
+    "Price": "900000",
+    "TeamId": 2,
+    "PositionId": 1
+  },
+  {
+    "Id": "9",
+    "FirstName": "Georgi",
+    "LastName": "Konov",
+    "Nationality": "Bulgarian",
+    "Rating": "100",
+    "Price": "1000000",
+    "TeamId": 2,
+    "PositionId": 2
+  },
+  {
+    "Id": "10",
+    "FirstName": "Teodor",
+    "LastName": "Todorov",
+    "Nationality": "Bulgarian",
+    "Rating": "80",
+    "Price": "800000",
+    "TeamId": 2,
+    "PositionId": 2
+  },
+  {
+    "Id": "11",
+    "FirstName": "Ivan",
+    "LastName": "Konov",
+    "Nationality": "Bulgarian",
+    "Rating": "100",
+    "Price": "1000000",
+    "TeamId": 2,
+    "PositionId": 3
+  },
+  {
+    "Id": "12",
+    "FirstName": "Kiril",
+    "LastName": "Konov",
+    "Nationality": "Bulgarian",
+    "Rating": "85",
+    "Price": "850000",
+    "TeamId": 2,
+    "PositionId": 3
+  },
+  //Pirin
+
+  {
+    "Id": "13",
+    "FirstName": "Tedi",
+    "LastName": "Salparov",
+    "Nationality": "Bulgarian",
+    "Rating": "70",
+    "Price": "700000",
+    "TeamId": 3,
+    "PositionId": 1
+  },
+  {
+    "Id": "14",
+    "FirstName": "Shefket",
+    "LastName": "Islqmov",
+    "Nationality": "Bulgarian",
+    "Rating": "70",
+    "Price": "700000",
+    "TeamId": 3,
+    "PositionId": 2
+  },
+  {
+    "Id": "15",
+    "FirstName": "Tihomir",
+    "LastName": "Todorov",
+    "Nationality": "Bulgarian",
+    "Rating": "84",
+    "Price": "840000",
+    "TeamId": 3,
+    "PositionId": 2
+  },
+  {
+    "Id": "16",
+    "FirstName": "Kiril",
+    "LastName": "Stanoev",
+    "Nationality": "Bulgarian",
+    "Rating": "100",
+    "Price": "1000000",
+    "TeamId": 3,
+    "PositionId": 3
+  },
+  {
+    "Id": "17",
+    "FirstName": "Nikolay",
+    "LastName": "Tenev",
+    "Nationality": "Bulgarian",
+    "Rating": "74",
+    "Price": "740000",
+    "TeamId": 3,
+    "PositionId": 3
+  },
+  {
+    "Id": "18",
+    "FirstName": "Stefan",
+    "LastName": "Yordanov",
+    "Nationality": "Bulgarian",
+    "Rating": "91",
+    "Price": "910000",
+    "TeamId": 3,
+    "PositionId": 4
+  },
+  //Levski
+  {
+    "Id": "19",
+    "FirstName": "Dimitar",
+    "LastName": "Ivankov",
+    "Nationality": "Bulgarian",
+    "Rating": "90",
+    "Price": "900000",
+    "TeamId": 4,
+    "PositionId": 1
+  },
+  {
+    "Id": "20",
+    "FirstName": "Stanimir",
+    "LastName": "Stoilov",
+    "Nationality": "Bulgarian",
+    "Rating": "74",
+    "Price": "740000",
+    "TeamId": 4,
+    "PositionId": 2
+  },
+  {
+    "Id": "21",
+    "FirstName": "Filip",
+    "LastName": "Todorov",
+    "Nationality": "Bulgarian",
+    "Rating": "70",
+    "Price": "700000",
+    "TeamId": 4,
+    "PositionId": 2
+  },
+  {
+    "Id": "22",
+    "FirstName": "Ivo",
+    "LastName": "Dilov",
+    "Nationality": "Bulgarian",
+    "Rating": "40",
+    "Price": "400000",
+    "TeamId": 4,
+    "PositionId": 3
+  },
+  {
+    "Id": "23",
+    "FirstName": "Dimitar",
+    "LastName": "Mihov",
+    "Nationality": "Bulgarian",
+    "Rating": "90",
+    "Price": "900000",
+    "TeamId": 4,
+    "PositionId": 3
+  },
+  {
+    "Id": "24",
+    "FirstName": "Georgi",
+    "LastName": "Ivanov",
+    "Nationality": "Bulgarian",
+    "Rating": "95",
+    "Price": "950000",
+    "TeamId": 4,
+    "PositionId": 4
+  },
+  //CSKA
+  {
+    "Id": "25",
+    "FirstName": "Teodosii",
+    "LastName": "Ivankov",
+    "Nationality": "Bulgarian",
+    "Rating": "50",
+    "Price": "500000",
+    "TeamId": 5,
+    "PositionId": 1
+  },
+  {
+    "Id": "26",
+    "FirstName": "Georgi",
+    "LastName": "Bodurov",
+    "Nationality": "Bulgarian",
+    "Rating": "65",
+    "Price": "650000",
+    "TeamId": 5,
+    "PositionId": 2
+  },
+  {
+    "Id": "27",
+    "FirstName": "Daniel",
+    "LastName": "Petrov",
+    "Nationality": "Bulgarian",
+    "Rating": "40",
+    "Price": "400000",
+    "TeamId": 5,
+    "PositionId": 2
+  },
+  {
+    "Id": "28",
+    "FirstName": "Ivan",
+    "LastName": "Todorov",
+    "Nationality": "Bulgarian",
+    "Rating": "60",
+    "Price": "600000",
+    "TeamId": 5,
+    "PositionId": 3
+  },
+  {
+    "Id": "29",
+    "FirstName": "Valentin",
+    "LastName": "Yordanov",
+    "Nationality": "Bulgarian",
+    "Rating": "100",
+    "Price": "1000000",
+    "TeamId": 5,
+    "PositionId": 3
+  },
+  {
+    "Id": "30",
+    "FirstName": "Mladen",
+    "LastName": "Yordanov",
+    "Nationality": "Bulgarian",
+    "Rating": "95",
+    "Price": "950000",
+    "TeamId": 5,
+    "PositionId": 4
+  },
+  //Ludogorez
+  {
+    "Id": "31",
+    "FirstName": "Ivan",
+    "LastName": "Kirqkov",
+    "Nationality": "Bulgarian",
+    "Rating": "90",
+    "Price": "900000",
+    "TeamId": 6,
+    "PositionId": 1
+  },
+  {
+    "Id": "32",
+    "FirstName": "Kozmin",
+    "LastName": "Mozi",
+    "Nationality": "Romanina",
+    "Rating": "80",
+    "Price": "800000",
+    "TeamId": 6,
+    "PositionId": 2
+  },
+  {
+    "Id": "33",
+    "FirstName": "Tervel",
+    "LastName": "Pulev",
+    "Nationality": "Bulgarian",
+    "Rating": "60",
+    "Price": "600000",
+    "TeamId": 6,
+    "PositionId": 2
+  },
+  {
+    "Id": "34",
+    "FirstName": "Kubrat",
+    "LastName": "Pulev",
+    "Nationality": "Bulgarian",
+    "Rating": "80",
+    "Price": "800000",
+    "TeamId": 6,
+    "PositionId": 3
+  },
+  {
+    "Id": "35",
+    "FirstName": "Georgi",
+    "LastName": "Yordanov",
+    "Nationality": "Bulgarian",
+    "Rating": "90",
+    "Price": "900000",
+    "TeamId": 6,
+    "PositionId": 3
+  },
+  {
+    "Id": "36",
+    "FirstName": "Mladen",
+    "LastName": "Stefanov",
+    "Nationality": "Bulgarian",
+    "Rating": "76",
+    "Price": "760000",
+    "TeamId": 6,
+    "PositionId": 4
+  }
+]
+// public int Id { get; set; }
+//        [MaxLength(30)]
+//        [Required]
+//        public string FirstName { get; set; }
+//        [MaxLength(30)]
+//        [Required]
+//        public string LastName { get; set; }
+//        [MaxLength(30)]
+//        [Required]
+//        public string Nationality { get; set; }
+//        [Range(1,100)]
+//         [Required]
+//        public int Rating { get; set; }
+//        [Range(1, 100)]
+//        [Required]
+//        public decimal Price { get; set; }
+
+//        public bool IsDeleted { get; set; }
+
+//        public int? TeamId { get; set; }
+//        public Team Team { get; set; }
+
+//        public int PositionId { get; set; }
+//        public Position Position { get; set; }

@@ -1,0 +1,59 @@
+[
+  {
+    "Id": "1",
+    "Name": "Vasil Levski",
+    "City": "Sofia",
+    "Country": "Bulgaria",
+    "Capacity": "45000"
+  },
+  {
+    "Id": "2",
+    "Name": "Hristo Botev",
+    "City": "Blagoevgrad",
+    "Country": "Bulgaria",
+    "Capacity": "15000"
+  },
+  {
+    "Id": "3",
+    "Name": "Wembly",
+    "City": "London",
+    "Country": "England",
+    "Capacity": "75000"
+  },
+  {
+    "Id": "4",
+    "Name": "Bernabeu",
+    "City": "Madrid",
+    "Country": "Spain",
+    "Capacity": "75000"
+  },
+  {
+    "Id": "5",
+    "Name": "Knou Camp",
+    "City": "Barcelona",
+    "Country": "Spain",
+    "Capacity": "90000"
+  },
+  {
+    "Id": "6",
+    "Name": "Juventus Stadium",
+    "City": "Torino",
+    "Country": "Italy",
+    "Capacity": "50000"
+  },
+  {
+    "Id": "7",
+    "Name": "Alianz Arena",
+    "City": "Munchen",
+    "Country": "Germany",
+    "Capacity": "65000"
+  },
+  {
+    "Id": "8",
+    "Name": "Ataturk",
+    "City": "Instambul",
+    "Country": "Turkey",
+    "Capacity": "60000"
+  }
+]
+

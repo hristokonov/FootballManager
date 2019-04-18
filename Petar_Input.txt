@@ -1,0 +1,11 @@
+createstadium;Hristina Morfova;Stara Zagora;Bulgaria;80000
+
+addteamleague;Atletic SMU;Sofia;League1	
+
+createleague;League1
+
+createteam;Atletic SMU;Stara Zagora;Bulgaria;Petar
+
+buyplayer;Atletic SMU;Stara Zagora;Petar;Botev
+
+showplayerstoby
